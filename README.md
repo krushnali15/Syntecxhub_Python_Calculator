@@ -1,4 +1,4 @@
-Syntecxhub_Python_Calculator
+Python_Calculator
  
 Project Overview.
 This project is a simple Python-based calculator developed as part of the Syntecxhub Internship Program. The application performs basic arithmetic operations using user input through the command line interface.
